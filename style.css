@@ -24,11 +24,11 @@ section {
 
 /* ===== LETTERS SECTION CENTER ===== */
 #letters {
-  min-height: 100vh;        /* take full screen height */
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
-  justify-content: center;  /* vertical center */
-  align-items: center;      /* horizontal center */
+  justify-content: center;
+  align-items: center;
 }
 
 /* ===== LANDING ===== */
@@ -75,7 +75,6 @@ section {
   text-shadow: 0 0 10px rgba(245,183,199,0.35);
 }
 
-/* subtle entrance */
 @keyframes fadeIn {
   from {
     opacity: 0;
@@ -87,6 +86,7 @@ section {
   }
 }
 
+/* ===== BUTTON ===== */
 .btn {
   margin-top: 30px;
   padding: 14px 28px;
@@ -109,8 +109,6 @@ section {
   grid-template-columns: repeat(7, 1fr);
   gap: 24px;
   margin-top: 50px;
-  margin-left: auto;
-  margin-right: auto;
   justify-items: center;
 }
 
@@ -157,16 +155,15 @@ section {
   line-height: 1.8;
   position: relative;
 
-   /* Make content scrollable if too tall */
-  max-height: 80vh;  /* viewport height */
+  /* Scroll fix for long letters */
+  max-height: 80vh;
   overflow-y: auto;
 }
+
 #modal-text {
   white-space: pre-line;
 }
 
-
-/* Close button */
 .close {
   position: absolute;
   top: 12px;
@@ -174,27 +171,6 @@ section {
   font-size: 22px;
   cursor: pointer;
 }
-
-/* ===== MOBILE TWEAK ===== */
-@media (max-width: 600px) {
-  .landing h1 {
-    font-size: 2.3em;
-  }
-  .envelope-img {
-    width: 50px;
-  }
-  .grid {
-    grid-template-columns: repeat(4, 1fr);
-  }
-
-  /* Countdown mobile sizing */
-  .countdown-title {
-    font-size: 1.1em;
-  }
-
-  #countdown {
-    font-size: 1.5em;
-  }
 
 /* ===== LOVE NUMBER REVEAL ===== */
 .reveal-love {
@@ -212,5 +188,36 @@ section {
   to {
     opacity: 1;
     transform: scale(1);
+  }
+}
+
+/* ===== MOBILE ===== */
+@media (max-width: 600px) {
+  .landing h1 {
+    font-size: 2.3em;
+  }
+
+  .envelope-img {
+    width: 60px;
+  }
+
+  .grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .countdown-title {
+    font-size: 1.1em;
+  }
+
+  #countdown {
+    font-size: 1.5em;
+  }
+
+  .modal-content {
+    padding: 20px;
+  }
+
+  .reveal-love {
+    font-size: 36px;
   }
 }
