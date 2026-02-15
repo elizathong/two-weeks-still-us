@@ -185,7 +185,7 @@ even though, we had quite a big fight, i just want to remind youuuu, i want and 
 
 the answer for how many i love youu i said in these letters issss...
 
-<span class="reveal-love">15</span>`
+<span class="reveal-love">15</span>`,
 
 ];
 
