@@ -90,10 +90,14 @@ And I’m always on your side. I’m grateful for you.
      style="max-width:100%; border-radius:12px;">`,
 
 // Day 11 — Feb 25
-`I wonder if we fought already or like got annoyed at each other liao... 😬 hahaha if you did or we have, i'm sorry bb. Hope you forgive me.`,
+`i wonder if we fought already or like got annoyed at each other liao... 😬 hahaha if you did or we have, i'm sorry bb. Hope you forgive me.`,
 
 // Day 12 — Feb 26
-`Thank you for loving me.`,
+`thank you for loving me. I know this journey hasn't been easy for you. sorry if you ever feel like it was hard to love me. :(
+
+writing this after the day we fought till 3am... sighhhhhhh i still feel kinda heavy but hopefully after meeting you later, i will feel better.
+
+rushing to finish up this project for you before you go off haha`,
 
 // Day 13 — Feb 27
 `I can’t wait to see you.`,
@@ -121,24 +125,8 @@ letters.forEach((text, i) => {
   wrap.appendChild(env);
   wrap.appendChild(label);
 
-  // Calculate this envelope's unlock date
-  const unlockDate = new Date(startDate);
-  unlockDate.setDate(startDate.getDate() + i);
-
-  const today = new Date();
-
-  // Remove time so it compares properly
-  today.setHours(0, 0, 0, 0);
-
-  if (today >= unlockDate) {
-    // ✅ UNLOCKED
-    env.onclick = () => openModal(text);
-  } else {
-    // 🔒 LOCKED
-    env.style.opacity = "0.4";
-    env.style.cursor = "not-allowed";
-    label.innerText += " 🔒";
-  }
+ // TEMP: unlock all envelopes
+env.onclick = () => openModal(text);
 
   grid.appendChild(wrap);
 });
