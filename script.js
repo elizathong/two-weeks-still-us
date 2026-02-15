@@ -91,7 +91,7 @@ here is a gif of me giving u some luvv 💗
 <br>
 <img src="assets/giveluv.gif"
      alt="me giving you luv"
-     style="width:180px; border-radius:12px; display:block; margin:10px auto;">`
+     style="width:180px; border-radius:12px; display:block; margin:10px auto;">`,
 
 // Day 9 — Feb 23
 `Running out of ideas hahaha 
