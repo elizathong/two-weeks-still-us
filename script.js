@@ -126,7 +126,7 @@ rushing to finish up this project for you before you go off haha`,
 // Day 14 — Feb 28
 `I'm coming back today! See you soon, my love 💛
 <br>
-<img src="assets/excited.gif"
+<img src="assets/Excited.gif"
      alt="me excited"
      style="width:180px; border-radius:12px; display:block; margin:10px auto;">`
 ];
