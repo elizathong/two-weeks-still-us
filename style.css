@@ -156,6 +156,10 @@ section {
   text-align: left;
   line-height: 1.8;
   position: relative;
+
+   /* Make content scrollable if too tall */
+  max-height: 80vh;  /* viewport height */
+  overflow-y: auto;
 }
 #modal-text {
   white-space: pre-line;
