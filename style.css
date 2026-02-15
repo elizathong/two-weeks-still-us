@@ -1,0 +1,194 @@
+/* ===== GLOBAL ===== */
+body {
+  margin: 0;
+  font-family: 'Nunito', sans-serif;
+  background:
+    linear-gradient(rgba(11,16,35,0.7), rgba(22,27,51,0.7)),
+    url("assets/background.jpg") center / cover no-repeat fixed;
+  color: #fff;
+  text-align: center;
+  overflow-x: hidden;
+}
+
+h1, h2 {
+  font-family: 'Caveat', cursive;
+  letter-spacing: 1px;
+  font-weight: 600;
+}
+
+section {
+  padding: 80px 20px;
+  max-width: 1100px;
+  margin: auto;
+}
+
+/* ===== LETTERS SECTION CENTER ===== */
+#letters {
+  min-height: 100vh;        /* take full screen height */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;  /* vertical center */
+  align-items: center;      /* horizontal center */
+}
+
+/* ===== LANDING ===== */
+.landing {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.landing h1 {
+  font-size: 3em;
+  margin-bottom: 20px;
+}
+
+.landing p {
+  max-width: 500px;
+  line-height: 1.8;
+  font-size: 1.1em;
+}
+
+/* ===== COUNTDOWN TIMER ===== */
+.countdown-container {
+  margin-top: 25px;
+  margin-bottom: 10px;
+  text-align: center;
+  animation: fadeIn 1.2s ease;
+}
+
+.countdown-title {
+  font-family: 'Caveat', cursive;
+  font-size: 1.3em;
+  letter-spacing: 1px;
+  opacity: 0.9;
+  margin-bottom: 6px;
+}
+
+#countdown {
+  font-size: 1.9em;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  color: #f5b7c7;
+  text-shadow: 0 0 10px rgba(245,183,199,0.35);
+}
+
+/* subtle entrance */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.btn {
+  margin-top: 30px;
+  padding: 14px 28px;
+  border-radius: 50px;
+  border: none;
+  background: #f5b7c7;
+  color: #161b33;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  transform: scale(1.05);
+}
+
+/* ===== ENVELOPE GRID ===== */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 24px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  justify-items: center;
+}
+
+.envelope {
+  cursor: pointer;
+  transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+.envelope:hover {
+  transform: scale(1.15) rotate(-5deg);
+  filter: drop-shadow(0 4px 10px rgba(245,183,199,0.6));
+}
+
+.envelope-img {
+  width: 100px;
+  height: auto;
+}
+
+.label {
+  font-size: 12px;
+  margin-top: 6px;
+  opacity: 0.8;
+}
+
+/* ===== MODAL ===== */
+.modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.7);
+  display: none;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  z-index: 99;
+}
+
+.modal-content {
+  background: #1c2140;
+  padding: 30px;
+  border-radius: 16px;
+  max-width: 500px;
+  width: 100%;
+  text-align: left;
+  line-height: 1.8;
+  position: relative;
+}
+#modal-text {
+  white-space: pre-line;
+}
+
+
+/* Close button */
+.close {
+  position: absolute;
+  top: 12px;
+  right: 16px;
+  font-size: 22px;
+  cursor: pointer;
+}
+
+/* ===== MOBILE TWEAK ===== */
+@media (max-width: 600px) {
+  .landing h1 {
+    font-size: 2.3em;
+  }
+  .envelope-img {
+    width: 50px;
+  }
+  .grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  /* Countdown mobile sizing */
+  .countdown-title {
+    font-size: 1.1em;
+  }
+
+  #countdown {
+    font-size: 1.5em;
+  }
+}

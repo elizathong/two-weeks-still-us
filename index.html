@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Two Weeks, Still Us</title>
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500;600&family=Nunito:wght@300;400;600&display=swap" rel="stylesheet">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <!-- ===== LANDING SECTION ===== -->
+  <section class="landing">
+    <h1>Two Weeks, Still Us</h1>
+    <p>
+      Hey you.<br><br>
+      Since we’re going to be apart for two weeks,<br>
+      I made you a tiny corner of the internet.<br><br>
+      Just for you.
+    </p>
+
+    <!-- COUNTDOWN TIMER -->
+    <div class="countdown-container">
+      <p class="countdown-title">Counting down till I see you 🤍</p>
+      <div id="countdown">Loading...</div>
+    </div>
+
+    <button class="btn" onclick="document.getElementById('letters').scrollIntoView({behavior:'smooth'})">
+      Open Your Letters ✉️
+    </button>
+  </section>
+
+  <!-- ===== LETTERS SECTION ===== -->
+  <section id="letters">
+    <h2>Your 14 Envelopes</h2>
+    <p>Open one a day, okay? 💌</p>
+    <div class="grid" id="grid"></div>
+  </section>
+
+  <!-- ===== MODAL ===== -->
+  <div class="modal" id="modal">
+    <div class="modal-content">
+      <span class="close" onclick="closeModal()">×</span>
+      <div id="modal-text"></div>
+    </div>
+  </div>
+
+  <!-- ===== COUNTDOWN SCRIPT ===== -->
+  <script>
+    // CHANGE THIS DATE & TIME TO WHEN YOU SEE HIM AGAIN
+    const targetDate = new Date("2026-03-01T12:30:00").getTime();
+
+    const timer = setInterval(function () {
+      const now = new Date().getTime();
+      const distance = targetDate - now;
+
+      const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+      const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+      const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+      document.getElementById("countdown").innerHTML =
+        `${days}d ${hours}h ${minutes}m ${seconds}s`;
+
+      if (distance < 0) {
+        clearInterval(timer);
+        document.getElementById("countdown").innerHTML = "We're together 🤍";
+      }
+    }, 1000);
+  </script>
+
+  <!-- JS -->
+  <script src="script.js"></script>
+
+</body>
+</html>
