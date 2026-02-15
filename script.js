@@ -127,7 +127,9 @@ But if we haven't fought or got annoyed at each other, lets give ourselves a lit
 <br>
 <img src="assets/pat.gif"
      alt="pat"
-     style="width:180px; border-radius:12px; display:block; margin:10px auto;">`,
+     style="width:180px; border-radius:12px; display:block; margin:10px auto;">
+     
+wo ai ni bao bei (do you know what this means :D)`,
 
 // Day 12 — Feb 26
 `thank you for loving me. I know this journey hasn't been easy for you. sorry if you ever feel like it was hard to love me. :(
@@ -144,7 +146,21 @@ even though, we had quite a big fight, i just want to remind youuuu, pokemon, i 
      style="width:180px; border-radius:12px; display:block; margin:10px auto;">`,
 
 // Day 13 — Feb 27
-`I can’t wait to see you. i want to claim my hugs and kisses and hand holding`,
+`I can’t wait to see you. I want to claim my hand holding, hugs and kisses and hand holding 😌🤍
+<br>
+<div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
+  <img src="assets/hands.gif"
+       alt="holding hands"
+       style="width:100px; border-radius:10px;">
+
+  <img src="assets/hug-end.gif"
+       alt="hug"
+       style="width:100px; border-radius:10px;">
+
+  <img src="assets/pecks.gif"
+       alt="kisses"
+       style="width:100px; border-radius:10px;">
+</div>`,
 
 // Day 14 — Feb 28
 `I'm coming back today! See you soon, my love 💛
