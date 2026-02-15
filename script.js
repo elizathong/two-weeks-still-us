@@ -150,24 +150,8 @@ letters.forEach((text, i) => {
   wrap.appendChild(env);
   wrap.appendChild(label);
 
-// Compute unlock date for this envelope
-const unlockDate = new Date(startDate);
-unlockDate.setDate(startDate.getDate() + i);
-
-// Get today’s date (ignore time)
-const today = new Date();
-today.setHours(0, 0, 0, 0);
-
-if (today >= unlockDate) {
-  // ✅ UNLOCKED
-  env.onclick = () => openModal(text);
-} else {
-  // 🔒 LOCKED
-  env.style.opacity = "0.4";
-  env.style.cursor = "not-allowed";
-  label.innerText += " 🔒";
-}
-
+// TEMP: unlock all envelopes
+env.onclick = () => openModal(text);
   grid.appendChild(wrap);
 });
 
