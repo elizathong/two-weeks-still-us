@@ -65,12 +65,12 @@ allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-pictur
 hope work today isn't too blue, 1 day of work then the weekend!
 
 if you are feeling blue, here is a little funny photo faces of us haha 
-
-you always only smileeeee, lousyyy, only when i ask u to funny face, you funny face ><
 <br>
 <img src="assets/funny.jpg"
      alt="funny us"
-     style="width:160px; border-radius:10px; display:block; margin:10px auto;">`,
+     style="width:160px; border-radius:10px; display:block; margin:10px auto;">
+     
+     you always only smileeeee, lousyyy, only when i ask u to funny face, you funny face >< i kinda like this photo of us heh`,
   
 // Day 7 — Feb 21
 `Halfway there biii!!! 🤍
