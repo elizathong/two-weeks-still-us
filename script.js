@@ -42,6 +42,8 @@ just reminding you, i love you ❤️`,
 
 `Not sure what time of the day you will open this but good morning or good afternoon or good evening or good night! haha
 
+Wonder what you will be doing today, have you smoked weed with your parents? haha hope it was a good session smoking weed with ur parents and maybe with kay ti? haha
+
 While I was writing day 4 for you, this was a song playing in the background. I think it's a good vibe song 🎶
 
 You can listen to it if you want 🎧 
