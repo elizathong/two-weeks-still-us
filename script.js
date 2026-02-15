@@ -69,7 +69,7 @@ if you are feeling blue, here is a little funny photo faces of us haha
 <br><br>
 <img src="assets/funny.jpg"
      alt="funny us"
-     style="width:160px; border-radius:10px; display:block; margin:10px auto;">`,`,
+     style="width:160px; border-radius:10px; display:block; margin:10px auto;">`,
   
 // Day 7 — Feb 21
 `Halfway there biii!!! 🤍
