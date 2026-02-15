@@ -57,7 +57,9 @@ allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-pictur
 </iframe>`,
 
   // Day 5 — Feb 19
-`wahhh 5 days passed really quickly! It's time for you to fly home, hope you had a great time in Hat Yai 😄 Have a safe flight back!`,
+`wahhh 5 days passed really quickly! It's time for you to fly home, hope you had a great time in Hat Yai 😄 Have a safe flight back!
+
+haha sorry it's a short one today. i'm running out of ideas for the letters haha`,
 
   // Day 6 — Feb 20
 `it's friyay! you just got back from thailand, hope you arent too tired and you have to work today huhu
@@ -70,15 +72,26 @@ if you are feeling blue, here is a little funny photo faces of us haha
      alt="funny us"
      style="width:160px; border-radius:10px; display:block; margin:10px auto;">
      
-     you always only smileeeee, lousyyy, only when i ask u to funny face, you funny face >< i kinda like this photo of us heh`,
+     you always only smileeeee, lousyyy 😝 only when i ask u to funny face, you funny face 🤪 i kinda like this photo of us heh`,
   
 // Day 7 — Feb 21
-`Halfway there biii!!! 🤍
+`halfway there biii!!! 🤍
 
-It's my bro's birthday today!!! woohoo he big boi`,
+It's my bro's birthday today!!! woohoo he big boi liao 👨‍🦰 
+
+it's saturday, wonder what you will be doing today. let me guess, probably sleep till around 9am then wake up, run some errands haha then play badminton then hang with friends maybe?
+
+let me know if i guessed it right hahhaha`,
 
 // Day 8 — Feb 22
-`I wonder where I will be on this day. Wherever it is, know that you're still in my heart. ewwww hahhaa siiick`,
+`I wonder where I will be on this day. Wherever it is, know that you're still in my heart. ewwww hahhaa siiick
+
+here is a gif of me giving u some luvv 💗
+
+<br>
+<img src="assets/giveluv.gif"
+     alt="me giving you luv"
+     style="width:180px; border-radius:12px; display:block; margin:10px auto;">`
 
 // Day 9 — Feb 23
 `Running out of ideas hahaha 
@@ -87,7 +100,7 @@ I really want to travel with youuu and i cant wait to go to places with youuu.
 
 But i think i do have a little fear travelling with you haha. maybe, i'm scared our travelling styles wont match 😐	haha we will seeee when the day comes 👀
 
-One day closer to us...`,
+One day closer to us... `,
 
 // Day 10 — Feb 24
 `If today feels heavy, remember:
