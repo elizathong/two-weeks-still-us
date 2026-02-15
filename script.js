@@ -112,7 +112,13 @@ I’m always on your side and I’m grateful for you and i love youuu
      alt="me giving hugs luv"
      style="width:180px; border-radius:12px; display:block; margin:10px auto;">
      
-a mini quiz for today! guess how many i love you have i said in these letters? guess it right, you get to claim 1 dare on me :p`,
+a mini quiz for today! guess how many i love you i said in these letters? yes, even future ones :p haha thouhght u could cheat the system by looking at previous letters? no no no :p
+
+whatsapp me the answer by the end of the day!
+
+guess it right, you get to claim 1 dare on me :p answer will be revealed on the last day keke
+
+i love youuu`,
 
 // Day 11 — Feb 25
 `i wonder if we fought already or like got annoyed at each other liao... 😬 hahaha if you did or we have, i'm sorry bb. Hope you forgive me. 
@@ -128,7 +134,14 @@ But if we haven't fought or got annoyed at each other, lets give ourselves a lit
 
 writing this after the day we fought till 3am... sighhhhhhh i still feel kinda heavy but hopefully after meeting you later, i will feel better.
 
-rushing to finish up this project for you before you go off haha`,
+rushing to finish up this project for you before you go off haha
+
+even though, we had quite a big fight, i just want to remind youuuu, pokemon, i want and i choose you
+
+<br>
+<img src="assets/choose.gif"
+     alt="choose"
+     style="width:180px; border-radius:12px; display:block; margin:10px auto;">`,
 
 // Day 13 — Feb 27
 `I can’t wait to see you. i want to claim my hugs and kisses and hand holding`,
