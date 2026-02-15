@@ -1,6 +1,5 @@
 // ===== LETTERS CONTENT =====
 const letters = [
-  // Day 1 — Feb 15	
 `hey love,
 
 i made this for you so that even when we’re apart, you’ll still feel me close 🤍
@@ -14,7 +13,6 @@ i’ll still update you whenever i turn on my data, and i hope you’ll update m
 
 i love you.`,
 
-  // Day 2 — Feb 16
 `Today is my turn to fly! ✈️ to Nippon
 
 Your first full day in Thailand! 
@@ -29,7 +27,6 @@ Other than that, go have some really yummy thai food 🤤
 
 i love you`,
 
-  // Day 3 — Feb 17
 `were you tired cause i was in your mind the whole day yesterday? 😏
 
 today's another day for a mini challenge! Snap 3 photos of anything blue and share why you chose them!
@@ -37,8 +34,6 @@ today's another day for a mini challenge! Snap 3 photos of anything blue and sha
 No flirting with girls in Thailand. I have spies. 🕵️‍♀️
 
 just reminding you, ฉันรักคุณ (C̄hạn rạk khuṇ) apparently it's i love you in thai ❤️`,
-
-// Day 4 — Feb 18
 
 `Not sure what time of the day you will open this but good morning or good afternoon or good evening or good night! haha
 
@@ -56,14 +51,12 @@ allowfullscreen=""
 allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
 </iframe>`,
 
-  // Day 5 — Feb 19
 `wahhh 5 days passed really quickly! It's time for you to fly home, hope you had a great time in Hat Yai 😄 Have a safe flight back!
 
 haha sorry it's a short one today. i'm running out of ideas for the letters haha
 
 i love you`,
 
-  // Day 6 — Feb 20
 `it's friyay! you just got back from thailand, hope you arent too tired and you have to work today huhu
 
 hope work today isn't too blue, 1 day of work then the weekend!
@@ -74,11 +67,10 @@ if you are feeling blue, here is a little funny photo faces of us haha
      alt="funny us"
      style="width:160px; border-radius:10px; display:block; margin:10px auto;">
      
-     you always only smileeeee, lousyyy 😝 only when i ask u to funny face, you funny face 🤪 i kinda like this photo of us heh
+you always only smileeeee, lousyyy 😝 only when i ask u to funny face, you funny face 🤪 i kinda like this photo of us heh
      
-     aku cinta you`,
-  
-// Day 7 — Feb 21
+aku cinta you`,
+
 `halfway there biii!!! 🤍
 
 It's my bro's birthday today!!! woohoo he big boi liao 👨‍🦰 
@@ -91,113 +83,83 @@ if i did, you owe me a dare kekekke
 
 ngo oi nei (do you know what language is this?)`,
 
-// Day 8 — Feb 22
 `I wonder where I will be on this day. Wherever it is, know that you're still in my heart. ewwww hahhaa siiick
 
 i love youu
 
 here is a gif of me giving u some luvv 💗
 <img src="assets/giveluv.gif"
-     alt="me giving you luv"
      style="width:180px; border-radius:12px; display:block; margin:10px auto;">`,
 
-// Day 9 — Feb 23
 `Running out of ideas hahaha 
 
 I really want to travel with youuu and i cant wait to go to places with youuu.
 
-But i think i do have a little fear travelling with you haha. maybe, i'm scared our travelling styles wont match 😐	haha we will seeee when the day comes 👀
+But i think i do have a little fear travelling with you haha. maybe, i'm scared our travelling styles wont match 😐 haha we will seeee when the day comes 👀
 
 for now, let's just imagine us travelling here in this gif :)
 
 <img src="assets/mountain.gif"
-     alt="mountain"
      style="width:180px; border-radius:12px; display:block; margin:10px auto;">
 
 One day closer to us...
 
 wo ai ni hen duo`,
 
-// Day 10 — Feb 24
 `If today feels heavy, remember:
 
 I’m always on your side and I’m grateful for you and i love youuu
 
 <img src="assets/hugs.gif"
-     alt="me giving hugs luv"
      style="width:180px; border-radius:12px; display:block; margin:10px auto;">
-     
-a mini quiz for today! guess how many i love yous(<- this also't includes haha), includes the different languages i said in these letters? yes, even future ones :p haha thouhght u could cheat the system by looking at previous letters? no no no :p
+
+a mini quiz for today! guess how many i love yous includes the different languages i said in these letters?
 
 whatsapp me the answer by the end of the day!
 
-guess it right, you get to claim 1 dare on me :p answer will be revealed on the last day keke
-
 i love youuu`,
 
-// Day 11 — Feb 25
 `i wonder if we fought already or like got annoyed at each other liao... 😬 hahaha if you did or we have, i'm sorry bb. Hope you forgive me. 
 
-But if we haven't fought or got annoyed at each other, lets give ourselves a little pat on the head haha like this gif keke take a vid of you patting urself hehe
+But if we haven't fought, lets give ourselves a little pat on the head haha like this gif keke
 
 <img src="assets/pat.gif"
-     alt="pat"
      style="width:180px; border-radius:12px; display:block; margin:10px auto;">
      
-wo ai ni bao bei (do you know what this means :D)`,
+wo ai ni bao bei`,
 
-// Day 12 — Feb 26
-`thank you for loving me. I know this journey hasn't been easy for you. sorry if you ever feel like it was hard to love me. :(
-
-writing this after the day we fought till 3am... sighhhhhhh i still feel kinda heavy but hopefully after meeting you later, i will feel better.
-
-rushing to finish up this project for you before you go off haha
-
-even though, we had quite a big fight, i just want to remind youuuu, i want and i choose you
+`thank you for loving me. even though we fought, i want and i choose you
 
 <img src="assets/choose.gif"
-     alt="choose"
      style="width:180px; border-radius:12px; display:block; margin:10px auto;">`,
 
-// Day 13 — Feb 27
 `I can’t wait to see you. I want to claim my hand holding, hugs and kisses and hand holding 😌🤍 
 
 <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
-  <img src="assets/hands.gif"
-       alt="holding hands"
-       style="width:200px; border-radius:10px;">
-
-  <img src="assets/hug-end.gif"
-       alt="hug"
-       style="width:200px; border-radius:10px;">
-
-  <img src="assets/pecks.gif"
-       alt="kisses"
-       style="width:200px; border-radius:10px;">
+  <img src="assets/hands.gif" style="width:200px; border-radius:10px;">
+  <img src="assets/hug-end.gif" style="width:200px; border-radius:10px;">
+  <img src="assets/pecks.gif" style="width:200px; border-radius:10px;">
 </div>`,
 
-// Day 14 — Feb 28
 `I'm coming back today! See you soon, my love 💛 
 
 <img src="assets/Excited.gif"
-     alt="me excited"
      style="width:180px; border-radius:12px; display:block; margin:10px auto;">
 
 the answer for how many i love youu i said in these letters issss...
 
 <span class="reveal-love">15</span>`
-
 ];
+
 
 // ===== BUILD ENVELOPES =====
 const grid = document.getElementById('grid');
-
 const startDate = new Date("2026-02-15T00:00:00");
 
 letters.forEach((text, i) => {
+
   const env = document.createElement('div');
   env.className = 'envelope';
-
   env.innerHTML = `<img src="assets/envelope.png" class="envelope-img">`;
 
   const label = document.createElement('div');
@@ -208,13 +170,27 @@ letters.forEach((text, i) => {
   wrap.appendChild(env);
   wrap.appendChild(label);
 
-// TEMP: unlock all envelopes
-env.onclick = () => openModal(text);
+  // 🔐 LOCK LOGIC
+  const today = new Date();
+  const unlockDate = new Date(startDate);
+  unlockDate.setDate(startDate.getDate() + i);
+
+  if (today >= unlockDate) {
+    env.onclick = () => openModal(text);
+  } else {
+    env.style.opacity = "0.4";
+    env.style.filter = "grayscale(100%)";
+    env.onclick = () => {
+      alert("Not unlocked yet 💌");
+    };
+  }
+
   grid.appendChild(wrap);
 });
 
+
 // ===== MODAL FUNCTIONS =====
-function openModal(text, index) {
+function openModal(text) {
   const modal = document.getElementById('modal');
   const modalText = document.getElementById('modal-text');
 
