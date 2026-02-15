@@ -10,7 +10,7 @@ you’re probably already in thailand when you read this. if not, i hope you hav
 
 so… this is us, starting two weeks apart. we did it before, and i’m sure we’ll get through it again, one day at a time. if you miss me at any point during your day, you can open an envelope for the day 😊
 
-i’ll still update you whenever i turn on my data, and i hope you’ll update me as much as you can too. i’ll be waiting for your long messages when i finally turn my data back on :p they always make my day.
+i’ll still update you whenever i turn on my data, and i hope you’ll update me as much as you can too. i’ll be waiting for your messages/long messages when i finally turn my data back on :p they always make my day.
 
 i love you.`,
 
@@ -21,7 +21,9 @@ Your first full day in Thailand!
 
 Since you're in thailand! Can i give you some mini challenges? hahaha dont worry if you dont want to do it, its just so i am in your mind all day 😏 hehe 
 
-1st mini challenge for the day! Eat something spicy for me bahahaha take a vid if u want to show me heheheh
+1st mini challenge for the day! Eat something spicy for me bahahaha take a vid if u want to show me heheheh 
+
+if not maybe just take a picture of something delicious you had during the day :p
 
 Other than that, go have some really yummy thai food 🤤
 
