@@ -172,25 +172,6 @@ section {
   cursor: pointer;
 }
 
-/* ===== LOVE NUMBER REVEAL ===== */
-.reveal-love {
-  font-size: 48px;
-  font-weight: 700;
-  color: #f5b7c7;
-  display: inline-block;
-  opacity: 0;
-  transform: scale(0.8);
-  animation: revealFade 1.8s ease forwards;
-  animation-delay: 1.2s;
-}
-
-@keyframes revealFade {
-  to {
-    opacity: 1;
-    transform: scale(1);
-  }
-}
-
 /* ===== MOBILE ===== */
 @media (max-width: 600px) {
   .landing h1 {
@@ -219,5 +200,23 @@ section {
 
   .reveal-love {
     font-size: 36px;
+  }
+}
+/* ===== LOVE NUMBER REVEAL ===== */
+.reveal-love {
+  font-size: 48px;
+  font-weight: 700;
+  color: #f5b7c7;
+  display: inline-block;
+  opacity: 0;
+  transform: scale(0.8);
+  animation: revealFade 1.8s ease forwards;
+  animation-delay: 1.2s;
+}
+
+@keyframes revealFade {
+  to {
+    opacity: 1;
+    transform: scale(1);
   }
 }
