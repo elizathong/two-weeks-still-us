@@ -127,7 +127,7 @@ I’m always on your side and I’m grateful for you and i love youuu
      alt="me giving hugs luv"
      style="width:180px; border-radius:12px; display:block; margin:10px auto;">
      
-a mini quiz for today! guess how many i love you, includes the different languages (<- this doesn't include haha) i said in these letters? yes, even future ones :p haha thouhght u could cheat the system by looking at previous letters? no no no :p
+a mini quiz for today! guess how many i love yous(<- this also't includes haha), includes the different languages i said in these letters? yes, even future ones :p haha thouhght u could cheat the system by looking at previous letters? no no no :p
 
 whatsapp me the answer by the end of the day!
 
