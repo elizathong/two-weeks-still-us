@@ -36,7 +36,7 @@ today's another day for a mini challenge! Snap 3 photos of anything blue and sha
 
 No flirting with girls in Thailand. I have spies. 🕵️‍♀️
 
-just reminding you, i love you ❤️`,
+just reminding you, ฉันรักคุณ (C̄hạn rạk khuṇ) apparently it's i love you in thai ❤️`,
 
 // Day 4 — Feb 18
 
@@ -110,7 +110,6 @@ But i think i do have a little fear travelling with you haha. maybe, i'm scared 
 
 for now, let's just imagine us travelling here in this gif :)
 
-<br>
 <img src="assets/mountain.gif"
      alt="mountain"
      style="width:180px; border-radius:12px; display:block; margin:10px auto;">
@@ -123,12 +122,12 @@ wo ai ni hen duo`,
 `If today feels heavy, remember:
 
 I’m always on your side and I’m grateful for you and i love youuu
-<br>
+
 <img src="assets/hugs.gif"
      alt="me giving hugs luv"
      style="width:180px; border-radius:12px; display:block; margin:10px auto;">
      
-a mini quiz for today! guess how many i love you i said in these letters? yes, even future ones :p haha thouhght u could cheat the system by looking at previous letters? no no no :p
+a mini quiz for today! guess how many i love you, includes the different languages (<- this doesn't include haha) i said in these letters? yes, even future ones :p haha thouhght u could cheat the system by looking at previous letters? no no no :p
 
 whatsapp me the answer by the end of the day!
 
@@ -140,7 +139,7 @@ i love youuu`,
 `i wonder if we fought already or like got annoyed at each other liao... 😬 hahaha if you did or we have, i'm sorry bb. Hope you forgive me. 
 
 But if we haven't fought or got annoyed at each other, lets give ourselves a little pat on the head haha like this gif keke take a vid of you patting urself hehe
-<br>
+
 <img src="assets/pat.gif"
      alt="pat"
      style="width:180px; border-radius:12px; display:block; margin:10px auto;">
@@ -154,16 +153,15 @@ writing this after the day we fought till 3am... sighhhhhhh i still feel kinda h
 
 rushing to finish up this project for you before you go off haha
 
-even though, we had quite a big fight, i just want to remind youuuu, pokemon, i want and i choose you
+even though, we had quite a big fight, i just want to remind youuuu, i want and i choose you
 
-<br>
 <img src="assets/choose.gif"
      alt="choose"
      style="width:180px; border-radius:12px; display:block; margin:10px auto;">`,
 
 // Day 13 — Feb 27
-`I can’t wait to see you. I want to claim my hand holding, hugs and kisses and hand holding 😌🤍
-<br>
+`I can’t wait to see you. I want to claim my hand holding, hugs and kisses and hand holding 😌🤍 
+
 <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
   <img src="assets/hands.gif"
        alt="holding hands"
@@ -181,7 +179,6 @@ even though, we had quite a big fight, i just want to remind youuuu, pokemon, i 
 // Day 14 — Feb 28
 `I'm coming back today! See you soon, my love 💛 
 
-<br>
 <img src="assets/Excited.gif"
      alt="me excited"
      style="width:180px; border-radius:12px; display:block; margin:10px auto;">
