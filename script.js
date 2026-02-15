@@ -151,23 +151,29 @@ even though, we had quite a big fight, i just want to remind youuuu, pokemon, i 
 <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
   <img src="assets/hands.gif"
        alt="holding hands"
-       style="width:100px; border-radius:10px;">
+       style="width:200px; border-radius:10px;">
 
   <img src="assets/hug-end.gif"
        alt="hug"
-       style="width:100px; border-radius:10px;">
+       style="width:200px; border-radius:10px;">
 
   <img src="assets/pecks.gif"
        alt="kisses"
-       style="width:100px; border-radius:10px;">
+       style="width:200px; border-radius:10px;">
 </div>`,
 
 // Day 14 — Feb 28
-`I'm coming back today! See you soon, my love 💛
+`I'm coming back today! See you soon, my love 💛 
+
 <br>
 <img src="assets/Excited.gif"
      alt="me excited"
-     style="width:180px; border-radius:12px; display:block; margin:10px auto;">`
+     style="width:180px; border-radius:12px; display:block; margin:10px auto;">
+
+the answer for how many i love youu i said in these letters issss...
+
+<span class="reveal-love">15</span>`
+
 ];
 
 // ===== BUILD ENVELOPES =====
