@@ -62,7 +62,9 @@ allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-pictur
   // Day 6 — Feb 20
 `it's friyay! you just got back from thailand, hope you arent too tired and you have to work today huhu
 
-hope work today isn't too blue, 1 day of work then the weekend!`,
+hope work today isn't too blue, 1 day of work then the weekend!
+
+if you are feeling blue, here is a little funny photo faces of us haha`,
   
 // Day 7 — Feb 21
 `Halfway there biii!!! 🤍
