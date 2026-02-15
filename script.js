@@ -65,7 +65,6 @@ allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-pictur
 hope work today isn't too blue, 1 day of work then the weekend!
 
 if you are feeling blue, here is a little funny photo faces of us haha
-
 <br>
 <img src="assets/funny.jpg"
      alt="funny us"
