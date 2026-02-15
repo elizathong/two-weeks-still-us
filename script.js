@@ -124,7 +124,11 @@ rushing to finish up this project for you before you go off haha`,
 `I can’t wait to see you. i want to claim my hugs and kisses and hand holding`,
 
 // Day 14 — Feb 28
-`I'm coming back today! See you soon, my love 🤍`
+`I'm coming back today! See you soon, my love 💛
+<br>
+<img src="assets/excited.gif"
+     alt="me excited"
+     style="width:180px; border-radius:12px; display:block; margin:10px auto;">`
 ];
 
 // ===== BUILD ENVELOPES =====
