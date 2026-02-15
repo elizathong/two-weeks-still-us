@@ -185,7 +185,7 @@ even though, we had quite a big fight, i just want to remind youuuu, i want and 
 
 the answer for how many i love youu i said in these letters issss...
 
-<span class="reveal-love">15</span>`,
+<span class="reveal-love">15</span>`
 
 ];
 
@@ -225,7 +225,9 @@ if (today >= unlockDate) {
   env.style.cursor = "not-allowed";
   label.innerText += " 🔒";
 }
+ grid.appendChild(wrap);
 
+});
 // ===== MODAL FUNCTIONS =====
 function openModal(text, index) {
   const modal = document.getElementById('modal');
