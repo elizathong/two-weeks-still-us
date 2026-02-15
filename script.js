@@ -87,7 +87,6 @@ let me know if i guessed it right hahhaha`,
 `I wonder where I will be on this day. Wherever it is, know that you're still in my heart. ewwww hahhaa siiick
 
 here is a gif of me giving u some luvv 💗
-
 <br>
 <img src="assets/giveluv.gif"
      alt="me giving you luv"
@@ -105,14 +104,11 @@ One day closer to us... `,
 // Day 10 — Feb 24
 `If today feels heavy, remember:
 
-You’re stronger than you think.
-
-And I’m always on your side. I’m grateful for you.
-
-<br><br>
-<img src="https://media.tenor.com/7Tq6K8L8ZtIAAAAC/cosytales-cute-kawaii-adorable-lovers.gif" 
-     alt="cute hug" 
-     style="max-width:100%; border-radius:12px;">`,
+I’m always on your side and I’m grateful for you.
+<br>
+<img src="assets/hugs.gif"
+     alt="me giving hugs luv"
+     style="width:180px; border-radius:12px; display:block; margin:10px auto;">`,
 
 // Day 11 — Feb 25
 `i wonder if we fought already or like got annoyed at each other liao... 😬 hahaha if you did or we have, i'm sorry bb. Hope you forgive me.`,
@@ -125,7 +121,7 @@ writing this after the day we fought till 3am... sighhhhhhh i still feel kinda h
 rushing to finish up this project for you before you go off haha`,
 
 // Day 13 — Feb 27
-`I can’t wait to see you.`,
+`I can’t wait to see you. i want to claim my hugs and kisses and hand holding`,
 
 // Day 14 — Feb 28
 `I'm coming back today! See you soon, my love 🤍`
