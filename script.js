@@ -86,6 +86,8 @@ let me know if i guessed it right hahhaha`,
 // Day 8 — Feb 22
 `I wonder where I will be on this day. Wherever it is, know that you're still in my heart. ewwww hahhaa siiick
 
+i love youu
+
 here is a gif of me giving u some luvv 💗
 <br>
 <img src="assets/giveluv.gif"
@@ -104,14 +106,22 @@ One day closer to us... `,
 // Day 10 — Feb 24
 `If today feels heavy, remember:
 
-I’m always on your side and I’m grateful for you.
+I’m always on your side and I’m grateful for you and i love youuu
 <br>
 <img src="assets/hugs.gif"
      alt="me giving hugs luv"
-     style="width:180px; border-radius:12px; display:block; margin:10px auto;">`,
+     style="width:180px; border-radius:12px; display:block; margin:10px auto;">
+     
+a mini quiz for today! guess how many i love you have i said in these letters? guess it right, you get to claim 1 dare on me :p`,
 
 // Day 11 — Feb 25
-`i wonder if we fought already or like got annoyed at each other liao... 😬 hahaha if you did or we have, i'm sorry bb. Hope you forgive me.`,
+`i wonder if we fought already or like got annoyed at each other liao... 😬 hahaha if you did or we have, i'm sorry bb. Hope you forgive me. 
+
+But if we haven't fought or got annoyed at each other, lets give ourselves a little pat on the head haha like this gif keke take a vid of you patting urself hehe
+<br>
+<img src="assets/pat.gif"
+     alt="pat"
+     style="width:180px; border-radius:12px; display:block; margin:10px auto;">`,
 
 // Day 12 — Feb 26
 `thank you for loving me. I know this journey hasn't been easy for you. sorry if you ever feel like it was hard to love me. :(
